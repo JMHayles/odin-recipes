@@ -1,0 +1,14 @@
+body {
+    background: #FFFFFF;
+    font-family: Rubik;
+    color: #4C566A;
+    font-size: 16px;
+}
+
+a:visited {
+color: #88C0D0;
+}
+
+img {
+    border-radius: 10px;
+}
